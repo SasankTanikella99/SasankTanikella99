@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasank Tanikella</h1>
 <h3 align="center">Working as a Software Engineer Intern @ Qtr.ai and SAAYAM</h3>
 
-- 🔭 I’m currently working on **Typescript, NestJs**
+- 🔭 I’m currently working on **Typescript, NestJs, AWS, MERN, GitlabCI**
 
 - 🌱 I’m currently learning **AWS, AI tools**
 
