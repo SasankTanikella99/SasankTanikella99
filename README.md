@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sasank.tanikella7@gmail.com**
 
-- 📄 Know about my experiences [https://publuu.com/flip-book/256013/604334](https://publuu.com/flip-book/256013/604334)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
