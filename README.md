@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sasank Tanikella</h1>
-<h3 align="center">Working as a Software Engineer Intern @ Qtr.ai and SAAYAM</h3>
+<h3 align="center">Working as a Software Engineer Intern and SAAYAMForALL</h3>
 
 - 🔭 I’m currently working on **Typescript, NestJs, AWS, MERN, GitlabCI**
 
-- 🌱 I’m currently learning **AWS, AI tools**
+- 🌱 I’m currently learning ** AI **
 
 - 👯 I’m looking to collaborate on **Chrome Extensions and Streaming applications**
 
