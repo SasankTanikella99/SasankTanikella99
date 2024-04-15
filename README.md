@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Typescript, NestJs, AWS, MERN, GitlabCI**
 
-- 🌱 I’m currently learning ** AI **
+- 🌱 I’m currently learning ** AI and WEB3 **
 
 - 👯 I’m looking to collaborate on **Chrome Extensions and Streaming applications**
 
