@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasank Tanikella</h1>
-<h3 align="center">Working as a Software Engineer Intern and SAAYAMForALL</h3>
+<h3 align="center">Working as a Software Engineer at Technology Crest Corporation </h3>
 
 - 🔭 I’m currently working on **Typescript, React, Node, AWS, GitlabCI**
 
