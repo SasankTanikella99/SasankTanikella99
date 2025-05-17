@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning ** AI and WEB3 **
 
-- 👯 I’m looking to collaborate on **Chrome Extensions and Streaming applications**
+- 👯 I’m looking to collaborate on **Ai Agents**
 
 - 🤝 I’m looking for help with **Blockchain, AI**
 
 - 💬 Ask me about **JavaScript, Java,**
 
-- 📫 How to reach me **sasank.tanikella7@gmail.com**
+- 📫 How to reach me **sasank.tanikella7@gmail.com** && **https://sasanktanikella99.github.io/AboutMe/**
 
 
 
