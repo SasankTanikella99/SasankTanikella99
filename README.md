@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, Java,**
 
-- 📫 How to reach me **sasank.tanikella7@gmail.com** && **https://sasanktanikella99.github.io/AboutMe/**
+- 📫 How to reach me **sasank.tanikella7@gmail.com** 
 
 
 
